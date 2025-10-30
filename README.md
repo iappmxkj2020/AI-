@@ -1,1 +1,1 @@
-# AI小创API开放平台<center>便捷获取API对接所:-源，快速集成-I小创能力</-- || �申请]*token获取** | mxkjcyzh.cn/token.php) || 📋 **对接文档** |xkjcyzh.cn/docs.html) || 💻 **开aixc.m| jcyzh.cn/opensource.php) |--在查看](http://aixc.mxkjcyzh.cn/opensource.php) |--在查看](http://aixc.mxkjcyzh.cn/opensource.php) |--在查看](http://aixc.mxkjcyzh.cn/opensource.php) |--在查看](http://aixc.mxkjcyzh.cn/opensource.php) |---### 注意事项1. 点击表格中的链接即可直接跳转至对应页访问或有对接问题，可联系平台技术支持n申请后请妥善保管，用于接口调用时的身份验证3. 若链接无法访问或有对接问题，可联系平台技术支持
+#AI小创开放平台源码及api接口获取链接:http://aixc.mxkjcyzh.cn/openapi.html
